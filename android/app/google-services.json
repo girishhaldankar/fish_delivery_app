@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772342934082",
+    "project_id": "fish-delivery-demo",
+    "storage_bucket": "fish-delivery-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772342934082:android:f77491daeda795a5481bdb",
+        "android_client_info": {
+          "package_name": "com.example.fish_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZlfgJ2FfUmqhvNACB6KtXsA4BIsR9WY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
